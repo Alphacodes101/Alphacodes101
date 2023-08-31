@@ -8,8 +8,7 @@
 2. Set Header
 3. Initialize Hamburger
 4. Initialize Parallax
-5. Init Google Map
-
+5. Init Google Map 
 
 ******************************/
 
